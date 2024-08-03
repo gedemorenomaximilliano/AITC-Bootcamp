@@ -1,0 +1,9 @@
+body {
+    font-family:sans-serif;
+    border-style:outset;
+    border-width:5px;
+    border-color:white;
+    border-radius: 5px;
+    padding: 15px
+
+}
